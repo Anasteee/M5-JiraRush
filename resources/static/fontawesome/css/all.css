@@ -8603,10 +8603,6 @@ readers do not read off random characters that represent icons */
     content: "\f3e8";
 }
 
-.fa-vk:before {
-    content: "\f189";
-}
-
 .fa-untappd:before {
     content: "\f405";
 }
